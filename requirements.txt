@@ -1,0 +1,28 @@
+yaml
+# Core ML and data
+ultralytics>=8.0.0
+# Use platform specific torch install if GPU; fallback generic
+torch
+torchvision
+
+# Data handling
+pyyaml
+pandas
+numpy
+tqdm
+opencv-python
+Pillow
+requests
+
+# Dataset sources / Kaggle
+kaggle
+
+# Utilities
+matplotlib
+seaborn
+scikit-learn
+
+# Optional for notebooks
+ipykernel
+jupyter
+
